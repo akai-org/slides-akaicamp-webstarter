@@ -1,0 +1,7 @@
+{
+  "name": "webstarter-how-to-become-a-webdeveloper-akai-camp-beginner-1",
+  "version": "1.0.0",
+  "dependencies": {
+    "reveal.js": "~2.6.1"
+  }
+}
