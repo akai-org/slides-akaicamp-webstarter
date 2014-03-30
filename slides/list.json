@@ -2,69 +2,78 @@
     "begin-howto.md",
     "begin-become-a-webdeveloper.html",
     {
-      "filename": "intro-so-you-wanted-to-become-a-webdeveloper.html",
+        "filename": "intro-so-you-wanted-to-become-a-webdeveloper.html",
+        "attr": {
+            "data-background": "http://i1.ytimg.com/vi/s1_LZ6d_D7w/maxresdefault.jpg"
+        }
+    },
+    {
+        "filename": "intro-what-if-youre-still-thinking-about-joining-the-party.html",
+        "attr": {
+            "data-background": "http://media.giphy.com/media/ORI0MzyUnLiQE/giphy.gif"
+        }
+    },
+    "intro-let-me-convince-you.html",
+    {
+      "filename": "intro-it-is-huge.html",
       "attr": {
-        "data-background": "http://i1.ytimg.com/vi/s1_LZ6d_D7w/maxresdefault.jpg"
       }
     },
-    "intro-what-if-youre-still-thinking-about-joining-the-party.html",
-    "intro-let-me-tell-you-why-you-have-to-be-there.html",
-    "intro-it-is-huge.html",
     "intro-programming-is-the-future.html",
-    "intro-desktop-apps-are-soo-like-90s.html",
     "intro-web-is-the-future.html",
+    "intro-desktop-apps-are-soo-like-90s.html",
     "intro-its-easy-to-learn.html",
     "intro-its-fun.html",
     "intro-all-teams-work-together.html",
     [
-      "intro-you-say-its-no-rocket-science.html",
-      "intro-no-rocket-science-well-not-really.html",
-      "intro-web-is-not-just-only-about-wordpress-blogs-and-silly-startup-websites.html",
-      "intro-web-developers-need-to-be-agile.html",
-      "intro-web-developers-need-to-be-improve-all-the-time.html",
-      "intro-web-developers-have-high-quality-code.html"
+        "intro-you-say-its-no-rocket-science.html",
+        "intro-no-rocket-science-well-not-really.html",
+        "intro-web-is-not-just-only-about-wordpress-blogs-and-silly-startup-websites.html",
+        "intro-web-developers-need-to-be-agile.html",
+        "intro-web-developers-need-to-be-improve-all-the-time.html",
+        "intro-web-developers-have-high-quality-code.html"
     ],
     "intro-that-is-why.html",
     "intro-we-strongly-base-on-open-source.html",
     "intro-we-have-huge-community.html",
     [
-      "intro-proofs.html",
-      "intro-i-already-mentioned-dieing-desktop-apps.html",
-      "intro-mobile-applications-in-javascript.html",
-      "intro-operating-systems-in-javascript.html",
-      "intro-drones-in-javascript.html",
-      "intro-internet-of-things.html",
-      "intro-huge-job-market.html",
-      "intro-web-technologies-are-popular.html"
+        "intro-proofs.html",
+        "intro-i-already-mentioned-dieing-desktop-apps.html",
+        "intro-mobile-applications-in-javascript.html",
+        "intro-operating-systems-in-javascript.html",
+        "intro-drones-in-javascript.html",
+        "intro-internet-of-things.html",
+        "intro-huge-job-market.html",
+        "intro-web-technologies-are-popular.html"
     ],
     "intro-lets-sum-up-web-rocks.html",
     "what-what-webdevelopment-really-is.html",
     "what-lets-split-it-up.html",
     [
-      "ux.html"
+        "ux.html"
     ],
     [
-      "design.html"
+        "design.html"
     ],
     [
-      "frontend.html"
+        "frontend.html"
     ],
     [
-      "backend.html",
-      "backend-whats-that-for.html",
-      "backend-various-technologies.html"
+        "backend.html",
+        "backend-whats-that-for.html",
+        "backend-various-technologies.html"
     ],
     [
-      "backend-php.html",
-      "backend-php-what.html",
-      "backend-php-what-for.html",
-      "backend-php-how.html"
+        "backend-php.html",
+        "backend-php-what.html",
+        "backend-php-what-for.html",
+        "backend-php-how.html"
     ],
     [
-      "devops.html"
+        "devops.html"
     ],
     [
-      "testing.html"
+        "testing.html"
     ],
     "summary.html"
 ]

@@ -62,7 +62,7 @@
                 
                     
                         
-    <section data-html="slides/intro-what-if-youre-still-thinking-about-joining-the-party.html"></section>
+    <section data-background="http://media.giphy.com/media/ORI0MzyUnLiQE/giphy.gif" data-html="slides/intro-what-if-youre-still-thinking-about-joining-the-party.html"></section>
 
 
                     
@@ -70,7 +70,7 @@
                 
                     
                         
-    <section data-html="slides/intro-let-me-tell-you-why-you-have-to-be-there.html"></section>
+    <section data-html="slides/intro-let-me-convince-you.html"></section>
 
 
                     
@@ -78,7 +78,7 @@
                 
                     
                         
-    <section data-html="slides/intro-it-is-huge.html"></section>
+    <section  data-html="slides/intro-it-is-huge.html"></section>
 
 
                     
@@ -94,7 +94,7 @@
                 
                     
                         
-    <section data-html="slides/intro-desktop-apps-are-soo-like-90s.html"></section>
+    <section data-html="slides/intro-web-is-the-future.html"></section>
 
 
                     
@@ -102,7 +102,7 @@
                 
                     
                         
-    <section data-html="slides/intro-web-is-the-future.html"></section>
+    <section data-html="slides/intro-desktop-apps-are-soo-like-90s.html"></section>
 
 
                     
@@ -412,7 +412,8 @@
                     // { src: 'bower_components/reveal.js/plugin/search/search.js', async: true, condition: function() { return !!document.body.classList; } }
                     //{ src: 'bower_components/reveal.js/plugin/remotes/remotes.js', async: true, condition: function() { return !!document.body.classList; } }
 
-                    { src: 'js/loadhtmlslides.js', condition: function() { return !!document.querySelector( '[data-html]' ); } }
+                    { src: 'js/loadhtmlslides.js', condition: function() { return !!document.querySelector( '[data-html]' ); } },
+                    { src: 'js/custom.js' }
                 ]
             });
         </script>
