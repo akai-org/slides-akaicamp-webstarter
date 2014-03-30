@@ -58,6 +58,7 @@
     [
         "prototyping.html",
         "wireframe.html",
+        "prototyping-why.html",
         "prototyping-terms.html",
         "prototyping-tools.html"
     ],
@@ -79,6 +80,7 @@
         "css-tools.html"
     ],
     [
+        "js.html",
         "js-story.html",
         "js-code.html",
         "js-tools.html",
