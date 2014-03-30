@@ -1,1 +1,6 @@
-["index.md"]
+[
+    "howto.md",
+    {
+        "filename": "become-a-webdeveloper.html"
+    }
+]
