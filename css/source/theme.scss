@@ -53,11 +53,12 @@ $violet:    #6c71c4;
 $blue:      #268bd2;
 $cyan:      #2aa198;
 $green:     #859900;
+$gray:      #ccc;
+
 
 // akai colors
 $orange: #ffa70c;
 $daintree: #00263d;
-$gray: #cccccc;
 
 
 // Background of the presentation
@@ -66,7 +67,7 @@ $backgroundColor: darken($daintree, 7%);
 // Primary/body text
 $mainFont: 'Lato', sans-serif;
 $mainFontSize: 36px;
-$mainColor: $base2;
+$mainColor: $gray;
 
 // Headings
 $headingMargin: 0 0 20px 0;
@@ -76,7 +77,7 @@ $headingColor: lighten($orange, 2%);
 $headingLineHeight: 0.9em;
 $headingLetterSpacing: 0.02em;
 $headingTextTransform: uppercase;
-$headingTextShadow: 0px 0px 5px rgba(#000, 0.5);
+$headingTextShadow: 2px 2px 3px rgba(#000, .7), -2px -2px 3px rgba(#000, .7);
 $heading1TextShadow: $headingTextShadow;
 
 // Links and actions
@@ -106,9 +107,23 @@ $selectionColor: #fff;
     font-weight: $headingFontWeight;
   }
 
-  .caption {
-    color: #fff;
-  }
+  .base03  { color: $base03;  }
+  .base02  { color: $base02;  }
+  .base01  { color: $base01;  }
+  .base00  { color: $base00;  }
+  .base0   { color: $base0;   }
+  .base1   { color: $base1;   }
+  .base2   { color: $base2;   }
+  .base3   { color: $base3;   }
+  .yellow  { color: $yellow;  }
+  .orange  { color: $orange;  }
+  .red     { color: $red;     }
+  .magenta { color: $magenta; }
+  .violet  { color: $violet;  }
+  .blue    { color: $blue;    }
+  .cyan    { color: $cyan;    }
+  .green   { color: $green;   }
+  .gray    { color: $gray;    }
 
   .horizontal-diagram {
     display: flex;
@@ -120,6 +135,18 @@ $selectionColor: #fff;
       display: inline-block;
       flex: 1;
     }
+  }
+
+  .images {
+    img {
+      display: inline-block;
+      height: 8em;
+    }
+  }
+
+  iframe.full {
+    width: 100%;
+    height: 15em;
   }
 
 }
