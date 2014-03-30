@@ -35,9 +35,23 @@ module.exports = (grunt) ->
             sass:
                 files: ['css/source/theme.scss']
                 tasks: ['sass']
+        
+            jade:
+                files: ['slides/source/*.jade']
+                tasks: ['jade']
+
+        jade:
+            templates:
+                files: [{
+                    expand: true
+                    cwd: 'slides/source/'
+                    src: ['*.jade']
+                    dest: 'slides/'
+                    ext: '.html'
+                }]
+
 
         sass:
-
             theme:
                 files:
                     'css/theme.css': 'css/source/theme.scss'
@@ -118,6 +132,7 @@ module.exports = (grunt) ->
         'Run presentation locally and start watch process (living document).', [
             'buildIndex'
             'sass'
+            'jade'
             'connect:livereload'
             'watch'
         ]
@@ -126,6 +141,7 @@ module.exports = (grunt) ->
         'Save presentation files to *dist* directory.', [
             'test'
             'sass'
+            'jade'
             'buildIndex'
             'copy'
         ]
