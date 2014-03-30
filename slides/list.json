@@ -108,6 +108,8 @@
     [
         "summary.html",
         "go-for-it.html",
-        "meet-up.html"
-    ]
+        "meet-up.html",
+        "conferences.html"
+    ],
+    "thank-you.html"
 ]
