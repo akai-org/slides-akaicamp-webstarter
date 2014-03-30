@@ -125,7 +125,11 @@ $selectionColor: #fff;
   .green   { color: $green;   }
   .gray    { color: $gray;    }
 
-  .horizontal-diagram {
+  ul, ol {
+    margin-bottom: 1em;
+  }
+
+  .jt-horizontal-diagram {
     display: flex;
     align-items: center;
     list-style: none;
@@ -137,7 +141,11 @@ $selectionColor: #fff;
     }
   }
 
-  .images {
+  .jt-images {
+    a {
+      display: inline-block;
+    }
+    
     img {
       display: inline-block;
       height: 8em;
@@ -147,6 +155,24 @@ $selectionColor: #fff;
   iframe.full {
     width: 100%;
     height: 15em;
+  }
+
+  .jt-tags {
+    span {
+      margin: 0 .5em;
+      line-height: 1.2;
+      white-space: nowrap;
+    }
+  }
+
+  .jt-logos {
+    a {
+      display: inline-block;
+    }
+    
+    img {
+      height: 2em;
+    }
   }
 
 }

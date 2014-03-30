@@ -177,17 +177,29 @@ body {
   color: #859900; }
 .reveal .gray {
   color: #ccc; }
-.reveal .horizontal-diagram {
+.reveal ul, .reveal ol {
+  margin-bottom: 1em; }
+.reveal .jt-horizontal-diagram {
   display: flex;
   align-items: center;
   list-style: none;
   margin: 2em 0; }
-  .reveal .horizontal-diagram li {
+  .reveal .jt-horizontal-diagram li {
     display: inline-block;
     flex: 1; }
-.reveal .images img {
+.reveal .jt-images a {
+  display: inline-block; }
+.reveal .jt-images img {
   display: inline-block;
   height: 8em; }
 .reveal iframe.full {
   width: 100%;
   height: 15em; }
+.reveal .jt-tags span {
+  margin: 0 0.5em;
+  line-height: 1.2;
+  white-space: nowrap; }
+.reveal .jt-logos a {
+  display: inline-block; }
+.reveal .jt-logos img {
+  height: 2em; }
