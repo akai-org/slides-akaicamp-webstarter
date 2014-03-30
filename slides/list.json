@@ -105,5 +105,9 @@
     [
         "testing.html"
     ],
-    "summary.html"
+    [
+        "summary.html",
+        "go-for-it.html",
+        "meet-up.html"
+    ]
 ]
