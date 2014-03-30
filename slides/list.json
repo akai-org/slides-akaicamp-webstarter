@@ -1,7 +1,12 @@
 [
     "begin-howto.md",
     "begin-become-a-webdeveloper.html",
-    "intro-so-you-wanted-to-become-a-webdeveloper.html",
+    {
+      "filename": "intro-so-you-wanted-to-become-a-webdeveloper.html",
+      "attr": {
+        "data-background": "http://i1.ytimg.com/vi/s1_LZ6d_D7w/maxresdefault.jpg"
+      }
+    },
     "intro-what-if-youre-still-thinking-about-joining-the-party.html",
     "intro-let-me-tell-you-why-you-have-to-be-there.html",
     "intro-it-is-huge.html",
