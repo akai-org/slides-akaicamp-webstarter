@@ -52,14 +52,40 @@
     "what-what-webdevelopment-really-is.html",
     "what-lets-split-it-up.html",
     [
-        "ux.html"
+        "idea.html",
+        "basic-questions.html"
     ],
     [
-        "design.html"
+        "prototyping.html",
+        "wireframe.html",
+        "prototyping-terms.html",
+        "prototyping-tools.html"
     ],
     [
-        "frontend.html"
+        "design.html",
+        "design-terms.html"
     ],
+    "frontend.html",
+    [
+        "html.html",
+        "html-story.html",
+        "html-code.html",
+        "html-tools.html"
+    ],
+    [
+        "css.html",
+        "css-story.html",
+        "css-code.html",
+        "css-tools.html"
+    ],
+    [
+        "js-story.html",
+        "js-code.html",
+        "js-tools.html",
+        "js-quote.html",
+        "js-power.html"
+    ],
+    "frontend-terms.html",
     [
         "backend.html",
         "backend-whats-that-for.html",
