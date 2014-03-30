@@ -1,18 +1,29 @@
 [
-    "howto.md",
-    "become-a-webdeveloper.html",
-    {
-        "filename": "so-you-wanted-to-become-a-webdeveloper.html",
-        "attr": {}
-    },
-    {
-        "filename": "what-if-youre-still-thinking-about-joining-the-party.html",
-        "attr": {}
-    },
-    "let-me-tell-you-why-you-have-to-be-there.html",
-    "it-is-huge.html",
-    "programming-is-the-future.html",
-    "web-is-the-future.html",
-    "desktop-apps-are-soo-like-90s.html",
-    "web-is-not-just-only-about-wordpress-blogs-and-silly-startup-websites.html"
+    "begin-howto.md",
+    "begin-become-a-webdeveloper.html",
+    "intro-so-you-wanted-to-become-a-webdeveloper.html",
+    "intro-what-if-youre-still-thinking-about-joining-the-party.html",
+    "intro-let-me-tell-you-why-you-have-to-be-there.html",
+    "intro-it-is-huge.html",
+    "intro-programming-is-the-future.html",
+    "intro-desktop-apps-are-soo-like-90s.html",
+    "intro-web-is-the-future.html",
+    "intro-its-easy-to-learn.html",
+    "intro-its-fun.html",
+    "intro-all-teams-work-together.html",
+    "intro-you-say-its-no-rocket-science.html",
+    "intro-web-is-not-just-only-about-wordpress-blogs-and-silly-startup-websites.html",
+    "intro-no-rocket-science-well-not-really.html",
+    "intro-web-developers-need-to-be-agile.html",
+    "intro-web-developers-need-to-be-improve-all-the-time.html",
+    "intro-web-developers-have-high-quality-code.html",
+    "intro-that-is-why.html",
+    "intro-we-strongly-base-on-open-source.html",
+    "intro-we-have-huge-community.html",
+    "intro-proofs.html",
+    "intro-i-already-mentioned-dieing-desktop-apps.html",
+    "intro-drones-in-javascript.html",
+    "intro-mobile-applications-in-javascript.html",
+    "intro-operating-systems-in-javascript.html",
+    "intro-huge-job-market.html"
 ]
