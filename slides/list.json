@@ -11,19 +11,55 @@
     "intro-its-easy-to-learn.html",
     "intro-its-fun.html",
     "intro-all-teams-work-together.html",
-    "intro-you-say-its-no-rocket-science.html",
-    "intro-web-is-not-just-only-about-wordpress-blogs-and-silly-startup-websites.html",
-    "intro-no-rocket-science-well-not-really.html",
-    "intro-web-developers-need-to-be-agile.html",
-    "intro-web-developers-need-to-be-improve-all-the-time.html",
-    "intro-web-developers-have-high-quality-code.html",
+    [
+      "intro-you-say-its-no-rocket-science.html",
+      "intro-no-rocket-science-well-not-really.html",
+      "intro-web-is-not-just-only-about-wordpress-blogs-and-silly-startup-websites.html",
+      "intro-web-developers-need-to-be-agile.html",
+      "intro-web-developers-need-to-be-improve-all-the-time.html",
+      "intro-web-developers-have-high-quality-code.html"
+    ],
     "intro-that-is-why.html",
     "intro-we-strongly-base-on-open-source.html",
     "intro-we-have-huge-community.html",
-    "intro-proofs.html",
-    "intro-i-already-mentioned-dieing-desktop-apps.html",
-    "intro-drones-in-javascript.html",
-    "intro-mobile-applications-in-javascript.html",
-    "intro-operating-systems-in-javascript.html",
-    "intro-huge-job-market.html"
+    [
+      "intro-proofs.html",
+      "intro-i-already-mentioned-dieing-desktop-apps.html",
+      "intro-mobile-applications-in-javascript.html",
+      "intro-operating-systems-in-javascript.html",
+      "intro-drones-in-javascript.html",
+      "intro-internet-of-things.html",
+      "intro-huge-job-market.html",
+      "intro-web-technologies-are-popular.html"
+    ],
+    "intro-lets-sum-up-web-rocks.html",
+    "what-what-webdevelopment-really-is.html",
+    "what-lets-split-it-up.html",
+    [
+      "ux.html"
+    ],
+    [
+      "design.html"
+    ],
+    [
+      "frontend.html"
+    ],
+    [
+      "backend.html",
+      "backend-whats-that-for.html",
+      "backend-various-technologies.html"
+    ],
+    [
+      "backend-php.html",
+      "backend-php-what.html",
+      "backend-php-what-for.html",
+      "backend-php-how.html"
+    ],
+    [
+      "devops.html"
+    ],
+    [
+      "testing.html"
+    ],
+    "summary.html"
 ]
