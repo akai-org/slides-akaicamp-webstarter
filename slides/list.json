@@ -96,8 +96,16 @@
     [
         "backend-php.html",
         "backend-php-what.html",
-        "backend-php-what-for.html",
-        "backend-php-how.html"
+        "backend-php-code.html",
+        "backend-php-how.html",
+        "backend-php-how2.html"
+    ],
+    [
+        "backend-ruby.html",
+        "backend-ruby-what.html",
+        "backend-ruby-code.html",
+        "backend-ruby-how.html",
+        "backend-ruby-how2.html"
     ],
     [
         "devops.html"

@@ -127,6 +127,10 @@ $selectionColor: #fff;
 
   ul, ol {
     margin-bottom: 1em;
+
+    ul, ol {
+      margin-bottom: 0;
+    }
   }
 
   .jt-horizontal-diagram {
@@ -200,6 +204,25 @@ $selectionColor: #fff;
       &:before {
         content: "- ";
       }
+    }
+  }
+
+  .caption-links {
+    position: absolute;
+    bottom: -100px;
+    font-size: .6em;
+    text-align: left;
+
+    &:before {
+      content: "Links:";
+    }
+
+    &, a {
+      color: $base01;
+    }
+
+    a {
+      display: block;
     }
   }
 
