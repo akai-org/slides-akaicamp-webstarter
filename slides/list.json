@@ -16,7 +16,7 @@
     "intro-let-me-convince-you.html",
     [
         "intro-prediction-no-1.html",
-        "intro-it-is-huge.html"
+        "intro-it-is-the-future.html"
     ],
     [
         "intro-prediction-no-2.html",
@@ -50,7 +50,6 @@
     ],
     "intro-lets-sum-up-web-rocks.html",
     "what-what-webdevelopment-really-is.html",
-    "what-lets-split-it-up.html",
     [
         "idea.html",
         "basic-questions.html"
@@ -90,7 +89,8 @@
     "frontend-terms.html",
     [
         "backend.html",
-        "backend-whats-that-for.html",
+        "backend-work-schema.html",
+        "backend-stuff.html",
         "backend-various-technologies.html"
     ],
     [

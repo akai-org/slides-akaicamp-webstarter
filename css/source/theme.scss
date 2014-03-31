@@ -172,6 +172,34 @@ $selectionColor: #fff;
     
     img {
       height: 2em;
+      border: none;
+    }
+
+    &.big {
+      img {
+        height: 5em;
+        margin: .5em;
+      }
+    }
+  }
+
+  .pros-cons {
+    list-style: none;
+
+    li.plus {
+      color: $green;
+
+      &:before {
+        content: "+ ";
+      }
+    }
+
+    li.minus {
+      color: $red;
+
+      &:before {
+        content: "- ";
+      }
     }
   }
 
