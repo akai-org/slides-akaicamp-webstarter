@@ -33,6 +33,7 @@
         "intro-mobile-applications-in-javascript.html",
         "intro-operating-systems-in-javascript.html",
         "intro-drones-in-javascript.html",
+        "js-quote.html",
         "intro-internet-of-things.html"
     ],
     [
@@ -83,7 +84,6 @@
         "js-story.html",
         "js-code.html",
         "js-tools.html",
-        "js-quote.html",
         "js-power.html"
     ],
     "frontend-terms.html",
@@ -113,14 +113,15 @@
         "backend-nodejs-how.html"
     ],
     [
-      "backend-python.html",
-      "backend-python-what.html",
-      "backend-python-how.html"
+        "backend-python.html",
+        "backend-python-what.html",
+        "backend-python-how.html"
     ],
     "backend-other-languages.html",
     [
         "devops.html",
-        "devops-what.html"
+        "devops-what.html",
+        "devops-how.html"
     ],
     [
         "testing.html"
