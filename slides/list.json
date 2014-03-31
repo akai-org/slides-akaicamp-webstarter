@@ -108,12 +108,19 @@
         "backend-ruby-how2.html"
     ],
     [
-      "backend-nodejs.html",
-      "backend-nodejs-what.html",
-      "backend-nodejs-how.html"
+        "backend-nodejs.html",
+        "backend-nodejs-what.html",
+        "backend-nodejs-how.html"
     ],
     [
-        "devops.html"
+      "backend-python.html",
+      "backend-python-what.html",
+      "backend-python-how.html"
+    ],
+    "backend-other-languages.html",
+    [
+        "devops.html",
+        "devops-what.html"
     ],
     [
         "testing.html"
