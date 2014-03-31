@@ -16,7 +16,7 @@
     "intro-let-me-convince-you.html",
     [
         "intro-prediction-no-1.html",
-        "intro-it-is-huge.html"
+        "intro-it-is-the-future.html"
     ],
     [
         "intro-prediction-no-2.html",
@@ -33,6 +33,7 @@
         "intro-mobile-applications-in-javascript.html",
         "intro-operating-systems-in-javascript.html",
         "intro-drones-in-javascript.html",
+        "js-quote.html",
         "intro-internet-of-things.html"
     ],
     [
@@ -50,7 +51,6 @@
     ],
     "intro-lets-sum-up-web-rocks.html",
     "what-what-webdevelopment-really-is.html",
-    "what-lets-split-it-up.html",
     [
         "idea.html",
         "basic-questions.html"
@@ -84,23 +84,44 @@
         "js-story.html",
         "js-code.html",
         "js-tools.html",
-        "js-quote.html",
         "js-power.html"
     ],
     "frontend-terms.html",
     [
         "backend.html",
-        "backend-whats-that-for.html",
+        "backend-work-schema.html",
+        "backend-stuff.html",
         "backend-various-technologies.html"
     ],
     [
         "backend-php.html",
         "backend-php-what.html",
-        "backend-php-what-for.html",
-        "backend-php-how.html"
+        "backend-php-code.html",
+        "backend-php-how.html",
+        "backend-php-how2.html"
     ],
     [
-        "devops.html"
+        "backend-ruby.html",
+        "backend-ruby-what.html",
+        "backend-ruby-code.html",
+        "backend-ruby-how.html",
+        "backend-ruby-how2.html"
+    ],
+    [
+        "backend-nodejs.html",
+        "backend-nodejs-what.html",
+        "backend-nodejs-how.html"
+    ],
+    [
+        "backend-python.html",
+        "backend-python-what.html",
+        "backend-python-how.html"
+    ],
+    "backend-other-languages.html",
+    [
+        "devops.html",
+        "devops-what.html",
+        "devops-how.html"
     ],
     [
         "testing.html"
