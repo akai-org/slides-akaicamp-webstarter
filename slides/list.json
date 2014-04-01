@@ -43,6 +43,7 @@
         "intro-web-developers-need-to-be-improve-all-the-time.html",
         "intro-its-easy-to-learn.html",
         "intro-its-fun.html",
+        "intro-web-developers-need-to-be-agile.html",
         "intro-web-developers-have-high-quality-code.html",
         "intro-all-teams-work-together.html",
         "intro-huge-job-market.html"
@@ -122,7 +123,9 @@
         "devops-how.html"
     ],
     [
-        "testing.html"
+        "testing.html",
+        "testing-what.html",
+        "testing-how.html"
     ],
     [
         "summary.html",
