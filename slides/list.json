@@ -1,6 +1,5 @@
 [
-    "begin-howto.md",
-    "begin-become-a-webdeveloper.html",
+    "begin-howto.html",
     {
         "filename": "intro-so-you-wanted-to-become-a-webdeveloper.html",
         "attr": {
@@ -44,7 +43,6 @@
         "intro-web-developers-need-to-be-improve-all-the-time.html",
         "intro-its-easy-to-learn.html",
         "intro-its-fun.html",
-        "intro-web-developers-need-to-be-agile.html",
         "intro-web-developers-have-high-quality-code.html",
         "intro-all-teams-work-together.html",
         "intro-huge-job-market.html"
@@ -83,8 +81,7 @@
         "js.html",
         "js-story.html",
         "js-code.html",
-        "js-tools.html",
-        "js-power.html"
+        "js-tools.html"
     ],
     "frontend-terms.html",
     [
