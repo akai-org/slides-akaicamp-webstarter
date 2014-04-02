@@ -182,21 +182,17 @@ body {
   .reveal ul ul, .reveal ul ol, .reveal ol ul, .reveal ol ol {
     margin-bottom: 0; }
 .reveal .jt-horizontal-diagram {
-  display: flex;
-  align-items: center;
   list-style: none;
   margin: 2em 0; }
   .reveal .jt-horizontal-diagram li {
     display: inline-block;
-    flex: 1; }
+    float: left;
+    width: 33.333%; }
 .reveal .jt-images a {
   display: inline-block; }
 .reveal .jt-images img {
   display: inline-block;
   height: 8em; }
-.reveal iframe.full {
-  width: 100%;
-  height: 15em; }
 .reveal .jt-tags span {
   margin: 0 0.5em;
   line-height: 1.2;

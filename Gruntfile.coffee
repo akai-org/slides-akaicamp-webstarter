@@ -52,8 +52,8 @@ module.exports = (grunt) ->
 
         image_resize:
             options:
-              width: 800
-              height: 800
+              width: 600
+              height: 600
               overwrite: true
             resize:
               files: [{
