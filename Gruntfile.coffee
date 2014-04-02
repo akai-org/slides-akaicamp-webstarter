@@ -50,6 +50,18 @@ module.exports = (grunt) ->
                     ext: '.html'
                 }]
 
+        image_resize:
+            options:
+              width: 800
+              height: 800
+              overwrite: true
+            resize:
+              files: [{
+                  expand: true
+                  cwd: 'images/'
+                  src: ['*.jpg', '*.png', '*.gif']
+                  dest: 'images/min/'
+              }]
 
         sass:
             theme:
@@ -128,11 +140,16 @@ module.exports = (grunt) ->
             'jshint'
         ]
 
-    grunt.registerTask 'server',
-        'Run presentation locally and start watch process (living document).', [
+    grunt.registerTask 'compile', [
             'buildIndex'
             'sass'
+            'image_resize'
             'jade'
+        ]
+
+    grunt.registerTask 'server',
+        'Run presentation locally and start watch process (living document).', [
+            'compile'
             'connect:livereload'
             'watch'
         ]
@@ -140,9 +157,7 @@ module.exports = (grunt) ->
     grunt.registerTask 'dist',
         'Save presentation files to *dist* directory.', [
             'test'
-            'sass'
-            'jade'
-            'buildIndex'
+            'compile'
             'copy'
         ]
 
