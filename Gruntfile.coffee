@@ -52,16 +52,16 @@ module.exports = (grunt) ->
 
         image_resize:
             options:
-              width: 600
-              height: 600
-              overwrite: true
+                width: 600
+                height: 600
+                overwrite: true
             resize:
-              files: [{
-                  expand: true
-                  cwd: 'images/'
-                  src: ['*.jpg', '*.png', '*.gif']
-                  dest: 'images/min/'
-              }]
+                files: [
+                    expand: true
+                    cwd: 'images/'
+                    src: ['*.jpg', '*.png', '*.gif']
+                    dest: 'images/min/'
+                ]
 
         sass:
             theme:
